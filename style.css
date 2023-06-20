@@ -1,0 +1,66 @@
+nav {
+    border-bottom: 1px solid rgb(207, 207, 207);
+    background-color: #003459;
+}
+
+nav i,
+nav span {
+    color: white;
+}
+
+.row {
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.buttons {
+    text-align: center;
+    display: flex;
+    gap: 20px;
+}
+
+select {
+    width: 44%;
+    border: 1px solid;
+    padding: 10px;
+    border-color: #00171F;
+}
+
+.col textarea {
+    width: 100%;
+    height: 130px;
+    border: none;
+    padding: 10px;
+    resize: none;
+}
+
+
+
+.iconButton {
+    border: none;
+    font-size: 25px;
+    background-color: transparent;
+    border-radius: 50%;
+    color: #ffffff;
+}
+
+#change {
+    color: #000000;
+}
+
+.translate {
+    margin-top: 15px;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-weight: 500;
+    background-color: #003459;
+}
+
+.t1,
+.t2 {
+    background-color: #00171F;
+    padding: 10px;
+}
